@@ -3,9 +3,7 @@ import React, { Component } from 'react';
 class Header extends Component {
   render() {
     return (
-      <div>
-          About
-      </div>
+      <h1>React Actors</h1>
     );
   }
 }
